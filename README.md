@@ -25,7 +25,7 @@
 <h3>FluidUI offers a JS like syntax and structure, you can easily import components / services like this</h3>
 
 ```lua
-import({ "Button", "ButtonGroup" }).from("@fluidui/components")
+import 'Button'.from '@fluidui/components'
 ```
 
 <h3>This will automatically place 'Button' and 'ButtonGroup' in the global environment.</h3>
@@ -33,7 +33,7 @@ import({ "Button", "ButtonGroup" }).from("@fluidui/components")
 <h3>Using components can be accomplished like this:</h3>
 
 ```lua
-import({ "Button", "ButtonGroup" }).from("@fluidui/components");
+import { 'Button', 'ButtonGroup' }.from '@fluidui/components'
 
 Button({
     isDisabled = false,
