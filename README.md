@@ -13,12 +13,13 @@
 * **Labels**
 * **Dropdowns** `[6 different variants]`
 * **Accordians**
-* **Cards** `[2 different types: products, actions]`
+* **Cards** `[5 different types: products, actions, message + actions, actions + images, message etc]`
 * **Spinners** `[4 different variants]`
 * **Radios** `[2 different types: single, group]`
 * **Tabs**
+* **Kbd** `keyboard keys`
 
-![Screenshot 2023-08-03 171115](https://github.com/petxmr/fluidui/assets/111649405/cfa77fb4-f02d-473e-b1f6-1be71d7dd6b4)
+![Screenshot 2023-08-04 130347](https://github.com/cabingory/fluidui/assets/111649405/39909574-8ddb-4a62-baf0-e6b0a013080e)
 
 # Usage
 
